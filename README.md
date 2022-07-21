@@ -14,3 +14,6 @@ https://zenn.dev/kimuson13/articles/go-workspace-mode-impressions
 https://developer.fyne.io/started/
 sudo apt install gcc libgl1-mesa-dev xorg-dev
 go get fyne.io/fyne/v2
+
+# 参考
+https://qiita.com/y_tochukaso/items/da426190a4563c1dbebd
