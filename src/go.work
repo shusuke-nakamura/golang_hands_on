@@ -3,4 +3,5 @@ go 1.18
 use (
 	./hello
 	./myapp
+	./starting_golang/ch02/p032-033/zoo/animals
 )
