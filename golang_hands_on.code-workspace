@@ -14,7 +14,23 @@
 		{
 			"path": "ch01/list1-3",
 			"name": "ch01_list1-3"
-		}
+		},
+		{
+			"path": "ch01/list1-4",
+			"name": "ch01_list1-4"
+		},
+		{
+			"path": "ch01/list1-5",
+			"name": "ch01_list1-5"
+		},
+		{
+			"path": "ch01/list1-7",
+			"name": "ch01_list1-7"
+		},
+		{
+			"path": "hello",
+			"name": "hello"
+		},
 	],
 	"settings": {
 		"code-runner.runInTerminal": true,
