@@ -28,6 +28,26 @@
 			"name": "ch01_list1-7"
 		},
 		{
+			"path": "ch02/list2-1",
+			"name": "ch02_list2-1"
+		},
+		{
+			"path": "ch02/list2-2",
+			"name": "ch02_list2-2"
+		},
+		{
+			"path": "ch02/list2-3",
+			"name": "ch02_list2-3"
+		},
+		{
+			"path": "ch02/list2-4",
+			"name": "ch02_list2-4"
+		},
+		{
+			"path": "ch02/list2-5",
+			"name": "ch02_list2-5"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},
