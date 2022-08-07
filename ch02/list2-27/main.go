@@ -17,6 +17,6 @@ func main() {
 	fmt.Println(m)
 	for len(m) > 0 {
 		m, s = f(m)
-		fmt.Println(s+" ->", s)
+		fmt.Println(s+" ->", m)
 	}
 }
