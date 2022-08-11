@@ -376,6 +376,10 @@
 			"name": "custom_widget_myentry"
 		},
 		{
+			"path": "calculator",
+			"name": "calculator"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},
