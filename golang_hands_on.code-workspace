@@ -376,6 +376,14 @@
 			"name": "ch05_list5-3"
 		},		
 		{
+			"path": "ch05/list5-4",
+			"name": "ch05_list5-4"
+		},		
+		{
+			"path": "ch05/list5-5",
+			"name": "ch05_list5-5"
+		},		
+		{
 			"path": "custom_widget/myentry",
 			"name": "custom_widget_myentry"
 		},
