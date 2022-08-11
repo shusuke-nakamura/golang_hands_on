@@ -396,6 +396,10 @@
 			"name": "ch05_list5-8"
 		},		
 		{
+			"path": "ch05/list5-9",
+			"name": "ch05_list5-9"
+		},		
+		{
 			"path": "custom_widget/myentry",
 			"name": "custom_widget_myentry"
 		},

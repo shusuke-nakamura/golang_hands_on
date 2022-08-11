@@ -27,3 +27,6 @@ sudo apt install libxxf86vm-dev
 go mod init MODULE_NAME
 go get fyne.io/fyne/v2
 go mod tidy
+
+### 1. goqueryのインストール
+go get github.com/PuerkitoBio/goquery
