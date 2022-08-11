@@ -364,6 +364,18 @@
 			"name": "ch04_list4-21"
 		},		
 		{
+			"path": "ch04/list4-22",
+			"name": "ch04_list4-22"
+		},		
+		{
+			"path": "ch04/list4-24",
+			"name": "ch04_list4-24"
+		},		
+		{
+			"path": "custom_widget/myentry",
+			"name": "custom_widget_myentry"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},
