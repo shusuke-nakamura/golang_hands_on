@@ -380,6 +380,10 @@
 			"name": "calculator"
 		},
 		{
+			"path": "simple_text_editor",
+			"name": "simple_text_editor"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},
