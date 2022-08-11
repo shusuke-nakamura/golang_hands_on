@@ -1,6 +1,13 @@
 # golang_hands_on
 
-## Fyne
+### vscode
+・補完機能が効かない場合の対処「setting.json or workspace」の設定で以下の1行を追加する。
+"editor.suggest.snippetsPreventQuickSuggestions": false,
+
+【参考サイト】
+https://zenn.dev/wim/articles/vscode-go-autocomplete-not-work-parameter
+
+### Fyne
 https://developer.fyne.io/
 【前提】
 ・「gwsl」がインストール済みであること

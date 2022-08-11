@@ -384,6 +384,14 @@
 			"name": "ch05_list5-5"
 		},		
 		{
+			"path": "ch05/list5-6",
+			"name": "ch05_list5-6"
+		},		
+		{
+			"path": "ch05/list5-7",
+			"name": "ch05_list5-7"
+		},		
+		{
 			"path": "custom_widget/myentry",
 			"name": "custom_widget_myentry"
 		},
@@ -455,6 +463,7 @@
 			"fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
 			"sml": "cd $dir && sml $fileName"
 		},
+		"editor.suggest.snippetsPreventQuickSuggestions": false,
 		"go.toolsEnvVars": {"GO111MODULE": "on"},
 		"go.useLanguageServer": true
 	}
