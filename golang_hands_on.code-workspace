@@ -400,6 +400,14 @@
 			"name": "ch05_list5-9"
 		},		
 		{
+			"path": "ch05/list5-11",
+			"name": "ch05_list5-11"
+		},		
+		{
+			"path": "ch05/list5-12_13",
+			"name": "ch05_list5-12_13"
+		},		
+		{
 			"path": "custom_widget/myentry",
 			"name": "custom_widget_myentry"
 		},
