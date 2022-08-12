@@ -30,3 +30,6 @@ go mod tidy
 
 ### 1. goqueryのインストール
 go get github.com/PuerkitoBio/goquery
+
+### sqlite3ドライバインストール
+go get github.com/mattn/go-sqlite3

@@ -408,6 +408,14 @@
 			"name": "ch05_list5-12_13"
 		},		
 		{
+			"path": "ch05/list5-14_15",
+			"name": "ch05_list5-14_15"
+		},		
+		{
+			"path": "ch05/list5-16_17",
+			"name": "ch05_list5-16_17"
+		},		
+		{
 			"path": "custom_widget/myentry",
 			"name": "custom_widget_myentry"
 		},
