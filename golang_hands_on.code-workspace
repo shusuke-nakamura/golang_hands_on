@@ -432,6 +432,10 @@
 			"name": "ch05_list5-22_23"
 		},		
 		{
+			"path": "ch05/list5-24",
+			"name": "ch05_list5-24"
+		},		
+		{
 			"path": "custom_widget/myentry",
 			"name": "custom_widget_myentry"
 		},
