@@ -420,6 +420,14 @@
 			"name": "ch05_list5-18"
 		},		
 		{
+			"path": "ch05/list5-19",
+			"name": "ch05_list5-19"
+		},		
+		{
+			"path": "ch05/list5-20_21",
+			"name": "ch05_list5-20_21"
+		},		
+		{
 			"path": "custom_widget/myentry",
 			"name": "custom_widget_myentry"
 		},
