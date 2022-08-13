@@ -55,11 +55,11 @@ func mydatafmRws(rs *sql.Rows) *Mydata {
 	return &md
 }
 
-func mydatafmRw(rs *sql.Row) *Mydata {
-	var md Mydata
-	er := rs.Scan(&md.ID, &md.Name, &md.Mail, &md.Age)
-	if er != nil {
-		panic(er)
-	}
-	return &md
-}
+// func mydatafmRw(rs *sql.Row) *Mydata {
+// 	var md Mydata
+// 	er := rs.Scan(&md.ID, &md.Name, &md.Mail, &md.Age)
+// 	if er != nil {
+// 		panic(er)
+// 	}
+// 	return &md
+// }
