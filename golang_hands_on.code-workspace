@@ -456,6 +456,10 @@
 			"name": "simple_text_editor"
 		},
 		{
+			"path": "crawl_data_management",
+			"name": "crawl_data_management"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},

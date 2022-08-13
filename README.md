@@ -33,3 +33,6 @@ go get github.com/PuerkitoBio/goquery
 
 ### sqlite3ドライバインストール
 go get github.com/mattn/go-sqlite3
+
+### Html-to-Markdownのインストール
+go get github.com/JohannesKaufmann/html-to-markdown
