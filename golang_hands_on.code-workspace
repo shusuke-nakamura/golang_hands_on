@@ -460,6 +460,10 @@
 			"name": "crawl_data_management"
 		},
 		{
+			"path": "go-web",
+			"name": "go-web"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},
