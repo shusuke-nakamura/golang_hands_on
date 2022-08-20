@@ -512,6 +512,14 @@
 			"name": "go-web_list6-17"
 		},
 		{
+			"path": "go-web/list6-19",
+			"name": "go-web_list6-19"
+		},
+		{
+			"path": "go-web/list6-21",
+			"name": "go-web_list6-21"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},
