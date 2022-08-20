@@ -31,7 +31,7 @@ func setupTemp() *Temps {
 	temps.indx = indx
 
 	// set hello template
-	helo, er := template.ParseFiles("../templates/hello_6_13.html")
+	helo, er := template.ParseFiles("../templates/hello_6_17.html")
 	if er != nil {
 		helo = temps.notemp
 	}
@@ -47,28 +47,21 @@ func index(w http.ResponseWriter, rq *http.Request, tmp *template.Template) {
 	}
 }
 
-var flg bool = true
-
 func hello(w http.ResponseWriter, rq *http.Request,
 	tmp *template.Template) {
 
 	item := struct {
-		Flg      bool
-		Title    string
-		Message  string
-		JMessage string
+		Title   string
+		Message string
 	}{
-		Flg:      flg,
-		Title:    "Send values",
-		Message:  "This is Sample message.<br>これはサンプルです。",
-		JMessage: "これはサンプルです。",
+		Title: "Send values",
+		// Message: "YES! this is message!!",
 	}
 
 	er := tmp.Execute(w, item)
 	if er != nil {
 		log.Fatal(er)
 	}
-	flg = !flg
 }
 
 func main() {

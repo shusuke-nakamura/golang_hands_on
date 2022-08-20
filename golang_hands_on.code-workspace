@@ -504,6 +504,14 @@
 			"name": "go-web_list6-13"
 		},
 		{
+			"path": "go-web/list6-15",
+			"name": "go-web_list6-15"
+		},
+		{
+			"path": "go-web/list6-17",
+			"name": "go-web_list6-17"
+		},
+		{
 			"path": "hello",
 			"name": "hello"
 		},
