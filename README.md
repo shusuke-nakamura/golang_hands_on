@@ -39,3 +39,7 @@ go get github.com/JohannesKaufmann/html-to-markdown
 
 ### セッションの利用
 go get github.com/gorilla/sessions
+
+### GORM
+go get github.com/mattn/go-sqlite3
+go get -u github.com/jinzhu/gorm
